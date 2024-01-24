@@ -9,9 +9,10 @@ errado = []
 def apresentacao_inicial():
     '''Apresentação inicial e pequena explicação do que é a multiplicação.'''
 
-    print('\n*******************************')
-    print('*** VAMOS ESTUDAR A TABUADA ***')
-    print('*******************************')
+    print('''
+▒█▀▀█ ░█▀▀█ ▒█░░░ ▒█▀▀█ ▒█░▒█ ▒█░░░ ░█▀▀█ ▒█▄░▒█ ▒█▀▀▄ ▒█▀▀▀█ 　 ░█▀▀█ 　 ▀▀█▀▀ ░█▀▀█ ▒█▀▀█ ▒█░▒█ ░█▀▀█ ▒█▀▀▄ ░█▀▀█ 
+▒█░░░ ▒█▄▄█ ▒█░░░ ▒█░░░ ▒█░▒█ ▒█░░░ ▒█▄▄█ ▒█▒█▒█ ▒█░▒█ ▒█░░▒█ 　 ▒█▄▄█ 　 ░▒█░░ ▒█▄▄█ ▒█▀▀▄ ▒█░▒█ ▒█▄▄█ ▒█░▒█ ▒█▄▄█ 
+▒█▄▄█ ▒█░▒█ ▒█▄▄█ ▒█▄▄█ ░▀▄▄▀ ▒█▄▄█ ▒█░▒█ ▒█░░▀█ ▒█▄▄▀ ▒█▄▄▄█ 　 ▒█░▒█ 　 ░▒█░░ ▒█░▒█ ▒█▄▄█ ░▀▄▄▀ ▒█░▒█ ▒█▄▄▀ ▒█░▒█''')
 
     print('\nA multiplicação nada mais é do que a soma de um número por ele mesmo uma determinada quantidade de vezes.')
     print('Vejamos um exemplo: 2 x 3 = 2 + 2 + 2 = 6 ou como de outra forma 2 x 3 = 3 + 3 = 6\n')
